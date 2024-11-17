@@ -1,0 +1,20 @@
+#Github Zephyr project - for STM32L476
+https://github.com/zephyrproject-rtos/zephyr/tree/main/boards/st/nucleo_l476rg
+
+#Zephyr support for STM32L476
+https://docs.zephyrproject.org/latest/boards/st/nucleo_l476rg/doc/index.html
+
+#STCubeL4 - Package MCU
+https://github.com/STMicroelectronics/STM32CubeL4
+
+#Document for HAL and LLD for STM32L4 family
+https://www.st.com/resource/en/user_manual/um1884-description-of-stm32l4l4-hal-and-lowlayer-drivers-stmicroelectronics.pdf
+
+#Online training for STM32L4
+https://www.st.com/content/st_com/en/support/learning/stm32-education/stm32-online-training/stm32l4-online-training.html
+
+#Shield - Adafruit 1.8" Color TFT with MicroSD and Joystick
+https://www.adafruit.com/product/802
+
+#MBED OS for Nucleo L476RG
+https://os.mbed.com/platforms/ST-Nucleo-L476RG/

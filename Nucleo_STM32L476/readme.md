@@ -12,7 +12,7 @@ The STM32 Nucleo-64 board comes with the STM32 comprehensive free software libra
 > Into \Documents\NUCLEO-L476RG_de\Binary you can find a hex ready to load into L476RG demo board. Although this demo uses an Adafruit 1.8" TFT shield, it could be run without 
 > it as a board sanity check (User LED LD2 will blink). To load this hex you should use STM32Cube programmer.
 
-![Board](Images/board.png)
+![Board](Images/board2.png)
 
 ## Hardware
 
